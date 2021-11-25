@@ -1,4 +1,4 @@
-## Vitor De Farias Metzner , Software Enginer (Vtex IO) 
+## Vitor De Farias Metzner , Software Enginer (React JS) 
 <div align="center">
   <a href="https://github.com/vitorfarias001">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorfarias001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
