@@ -25,6 +25,6 @@
     <p> Ola me chamo Vitor,  bem minha historia com programador é meio louca, saiba que nem sempre foram dias de glória , ja fui Militar  , ja fui Cobrador de Onbius e ja fui atendente onde minha mãe era dona de uma lanchonete aqui de SC - (Massa Viva).</p
       <p>Minha história como programador deu inicio em 2017 quando consegui uma bolsa de 100% no SENAI em Jogos Digitais , foi um sorteio onde consegui desenvolver minhas habilidades na Unity3D uma plataforma de desenvolvimento em tempo real e  fiz 4 joguinhos academicos</p>
         <p>Logo em seguida depois de conhecer o ramo de Programação me indifiquei mais com o Front End , mesmo tendo conhecimentos em Back End preferi dar continuidade a minha carreira de Front , onde conheci React Native , React e hoje Vtex</p>
-          <p>Resolvi dar continuidade a minha carreira , e até hoje venho tirando certificações e especializações na área , tenho diversos cursos na udemy , devmedia e logo fui para Labenu uma escola de Desenvolvimento Web Full Stack.</p>
+          <p>Resolvi dar continuidade a minha carreira , e até hoje venho tirando certificações e especializações na área , tenho diversos cursos na udemy , devmedia e logo fui para Labenu uma escola de Desenvolvimento Web Full Stack e estou cursando uma faculdade em Sistemas da Informação onde a formação prevista é para 2025</p>
   </div
   
