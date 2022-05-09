@@ -27,4 +27,11 @@
         <p>Logo em seguida depois de conhecer o ramo de Programação me indifiquei mais com o Front End , mesmo tendo conhecimentos em Back End preferi dar continuidade a minha carreira de Front , onde conheci React Native , React e  Vtex</p>
           <p>Resolvi dar continuidade a minha carreira , e até hoje venho tirando certificações e especializações na área , tenho diversos cursos na udemy , devmedia e logo fui para Labenu uma escola de Desenvolvimento Web Full Stack e estou cursando uma faculdade em Sistemas da Informação onde a formação prevista é para 2025</p>
   </div
+
+<div align="center">
+    <p> Hello, my name is Vitor, well my story with a programmer is kind of crazy, know that it wasn't always glory days, I've been in the Military, I've been an Onbius Collector and I've been an attendant where my mother owned a cafeteria here in SC - (Live Pasta).</p
+      <p>My story as a programmer started in 2017 when I got a 100% scholarship at SENAI in Digital Games, it was a draw where I managed to develop my skills on Unity3D a real-time development platform and played 4 academic games</p>
+        <p>Shortly after getting to know the Programming branch I became more familiar with Front End, even though I had knowledge in Back End I preferred to continue my Front career, where I got to know React Native, React and Vtex</p>
+          <p>I decided to continue my career, and until today I've been taking certifications and specializations in the area, I have several courses at udemy, devmedia and then I went to Labenu, a Full Stack Web Development school and I'm attending a college in Information Systems where the planned training is for 2025</p>
+  </div
   
