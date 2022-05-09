@@ -28,6 +28,7 @@
           <p>Resolvi dar continuidade a minha carreira , e até hoje venho tirando certificações e especializações na área , tenho diversos cursos na udemy , devmedia e logo fui para Labenu uma escola de Desenvolvimento Web Full Stack e estou cursando uma faculdade em Sistemas da Informação onde a formação prevista é para 2025</p>
   </div
 
+English
 <div align="center">
     <p> Hello, my name is Vitor, well my story with a programmer is kind of crazy, know that it wasn't always glory days, I've been in the Military, I've been an Onbius Collector and I've been an attendant where my mother owned a cafeteria here in SC - (Live Pasta).</p
       <p>My story as a programmer started in 2017 when I got a 100% scholarship at SENAI in Digital Games, it was a draw where I managed to develop my skills on Unity3D a real-time development platform and played 4 academic games</p>
