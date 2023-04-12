@@ -4,7 +4,7 @@
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
     </h1>
     [![Typing SVG](https://readme-typing-svg.herokuapp.com?     font=Fira+Code&weight=100&size=16&pause=1000&center=true&vCenter=true&width=435&lines=Being+a+developer+in+the+age+of+machines)](https://git.io/typing-svg)
-    </div>
+ </div>
 <div align="center">
     <h2 align="left">🎓About me:</h2>
 </div>
