@@ -163,9 +163,7 @@
 <div align="center">
     <h2 align="left">🏆GitHub Stats :</h2>
 </div>
-<p align="center">
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=vitorfarias001&hide_border=true&theme=redical" alt="vitorfarias001" />
-</p>
+
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitorfarias001&show_icons=true&show_icons=true&theme=radical&include_all_commits=true" alt="vitorfarias001" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitorfarias001&show_icons=true&locale=en&theme=radical&layout=compact" alt="vitorfarias001" />
