@@ -61,7 +61,7 @@
         <img src="https://img.icons8.com/color/48/null/generic-mouse.png" width="30" height="30" />
         <p>Razer Deathadder V2 X HyperSpeed ​​Wireless Gaming Mouse</p>
     </a>
-    <a href="" target="_blank">
+    <a  target="_blank">
         <img src="https://img.icons8.com/color/48/null/integrated-webcam.png"" width="30" height="30" />
         <p>POCO F2 PRO XIAOMI</p>
     </a>
