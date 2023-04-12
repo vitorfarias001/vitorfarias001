@@ -3,11 +3,8 @@
         Hi there, I'm >Vitor De Farias Metzner</a>
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
     </h1>
-    <img
-        src="https://readme-typing-svg.herokuapp.com?font=consola&size=22&duration=10000&center=true&vCenter=true&width=1050&lines=computer+programming+%3F+Obviously+you+mean+black+magic;Deleted+code+is+debugged+code.;Software+and+cathedrals+are+a+bit+the+same+thing+-+first+we+build+them%2C+then+we+pray.;Computers+are+fast+-+programmers+keep+them+slow;Good+code+is+like+a+good+joke.+it+needs+no+explanation+"
-    />
-</div>
-
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?     font=Fira+Code&weight=100&size=16&pause=1000&center=true&vCenter=true&width=435&lines=Being+a+developer+in+the+age+of+machines)](https://git.io/typing-svg)
+    </div>
 <div align="center">
     <h2 align="left">🎓About me:</h2>
 </div>
