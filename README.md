@@ -14,7 +14,7 @@
 <ul>
     <li>🐲 Name : Vitor De Farias Metzner</li>
     <li>🥷 : 25/08/1998</li>
-    <li>👾 Bio :I build ecommerce sites from scratch, maintenance and consulting and mobile applications
+    <li>👾 Bio : I build ecommerce sites , maintenance and consulting and mobile applications
             <ul>
                 <li>Scripting: (Bash, Gulp)</li>
                 <li>Fronted (React JS , Vtex , Shopify , Wordpress)</li>
