@@ -158,6 +158,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
     </a>
 </p>
+
+
 <div align="center">
     <h2 align="left">🏆GitHub Stats :</h2>
 </div>
@@ -166,15 +168,18 @@
 </p>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitorfarias001&show_icons=true&show_icons=true&theme=radical&include_all_commits=true" alt="vitorfarias001" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitorfarias001&show_ic
-             ons=true&locale=en&theme=radical&layout=compact" alt="vitorfarias001" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitorfarias001&show_icons=true&locale=en&theme=radical&layout=compact" alt="vitorfarias001" />
+</p>
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorfarias001" alt="vitorfarias001" />
 </p>
 <div align="center">
     <h2 align="left">🌍 Connect with me:</h2>
 </div>
-<p align="center">
-    <a href="https://www.linkedin.com/in/devvitorfarias/" target="blank">
+    <a href="https://linkedin.com/in/devvitorfarias" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vitorfarias001" height="30" width="40" />
     </a>
 </p>
+<a href="https://github.com/vitorfarias001?tab=overview&from=2042-12-01&to=2042-12-31">Github 42</a>
+
 
