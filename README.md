@@ -36,8 +36,7 @@
 </p>
 <div align="center">
     <h2 align="left">🖥️ I work on :</h2>
-</div>
-<p align="center">
+    <p align="center">
     <a  target="_blank">
         <img src="https://img.icons8.com/color/48/null/raspberry-pi-zero.png" width="30" height="30" />
         <p>Intel® Core™ i5-7400 Processor 6M Cache, up to 3.50 GHz</p>
@@ -68,6 +67,8 @@
     </a>
    
 </p>
+</div>
+
 <div align="center">
     <h2 align="left">🧰 Languages ​​and Technologies that I have Extensive domain and knowledge in</h2>
 </div>
