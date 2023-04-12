@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-        Hi there, I'm >Vutir</a>
+        Hi there, I'm >Vitor De Farias Metzner</a>
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
     </h1>
     <img
@@ -14,11 +14,11 @@
 <ul>
     <li>🐲 Name : Vitor De Farias Metzner</li>
     <li>🥷 : 25/08/1998</li>
-    <li>👾 Bio :I build ecommerce sites from scratch, maintenance and consulting
+    <li>👾 Bio :I build ecommerce sites from scratch, maintenance and consulting and mobile applications
             <ul>
                 <li>Scripting: (Bash, Gulp)</li>
                 <li>Fronted (React JS , Vtex , Shopify , Wordpress)</li>
-                <li>Backend PNodeJS)</li>
+                <li>Backend NodeJS)</li>
                 <li>Sql: (Mysql, Postgresql)</li>
                 <li>NoSql: (Firebase, MongoDB)</li>
                 <li>Mobile: (React Native , Flutter)</li>
@@ -38,27 +38,27 @@
     <h2 align="left">🖥️ I work on :</h2>
 </div>
 <p align="center">
-    <a href="" target="_blank">
+    <a  target="_blank">
         <img src="https://img.icons8.com/color/48/null/raspberry-pi-zero.png" width="30" height="30" />
         <p>Intel® Core™ i5-7400 Processor 6M Cache, up to 3.50 GHz</p>
     </a>
-    <a href="" target="_blank">
+    <a  target="_blank">
         <img src="https://img.icons8.com/color/48/null/nvidia-geforce.png" width="30" height="30" />
         <p>RTX 4090 GAMING TRIO 24G GDDR6X - 912-V510-014</p>
     </a>
-    <a href="" target="_blank">
+    <a  target="_blank">
         <img src="https://img.icons8.com/color/48/null/motherboard.png" width="30" height="30" />
         <p>GA-H110M-H (rev. 1.x)</p>
     </a>
-    <a href="https://www.razer.com/" target="_blank">
+    <a  target="_blank">
         <img src="https://img.icons8.com/color/48/null/headset.png" width="30" height="30" />
         <p>Razer Kraken 7.1</p>
     </a>
-    <a href="https://www.razer.com/" target="_blank">
+    <a  target="_blank">
         <img src="https://img.icons8.com/color/48/null/keyboard.png" width="30" height="30" />
         <p>Razer Pro Type Wireless Mechanical Keyboard, Bluetooth</p>
     </a>
-    <a href="https://www.razer.com/" target="_blank">
+    <a  target="_blank">
         <img src="https://img.icons8.com/color/48/null/generic-mouse.png" width="30" height="30" />
         <p>Razer Deathadder V2 X HyperSpeed ​​Wireless Gaming Mouse</p>
     </a>
