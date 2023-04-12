@@ -18,7 +18,7 @@
             <ul>
                 <li>Scripting: (Bash, Gulp)</li>
                 <li>Fronted (React JS , Vtex , Shopify , Wordpress)</li>
-                <li>Backend NodeJS)</li>
+                <li>Backend (NodeJS)</li>
                 <li>Sql: (Mysql, Postgresql)</li>
                 <li>NoSql: (Firebase, MongoDB)</li>
                 <li>Mobile: (React Native , Flutter)</li>
