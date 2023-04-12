@@ -162,9 +162,6 @@
     </a>
 </p>
 <div align="center">
-    <h2 align="left">🏆GitHub Stats :</h2>
-</div>
-<div align="center">
     <h2 align="left">🌍 Connect with me:</h2>
 </div>
 <p align="center">
@@ -172,5 +169,4 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vitorfarias001" height="30" width="40" />
     </a>
 </p>
-<a href="https://github.com/vitorfarias001?tab=overview&from=2042-12-01&to=2042-12-31">Github 6</a>
 
