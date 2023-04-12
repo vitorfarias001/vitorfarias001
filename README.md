@@ -4,7 +4,6 @@
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
     </h1> 
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=14&pause=1000&center=true&vCenter=true&width=500&lines=Being+a+developer+at+the+moment+where+everyone+uses+chatGPT" alt="Typing SVG" />
-
  </div>
 <div align="center">
     <h2 align="left">🎓About me:</h2>
@@ -158,6 +157,17 @@
     <a href="https://vuejs.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
     </a>
+</p>
+<div align="center">
+    <h2 align="left">🏆GitHub Stats :</h2>
+</div>
+<p align="center">
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=vitorfarias001&hide_border=true&theme=redical" alt="vitorfarias001" />
+</p>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitorfarias001&show_icons=true&show_icons=true&theme=radical&include_all_commits=true" alt="vitorfarias001" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitorfarias001&show_ic
+             ons=true&locale=en&theme=radical&layout=compact" alt="vitorfarias001" />
 </p>
 <div align="center">
     <h2 align="left">🌍 Connect with me:</h2>
