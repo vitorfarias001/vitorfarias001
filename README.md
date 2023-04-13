@@ -14,7 +14,7 @@
     <li>👾 Bio : I build ecommerce sites , maintenance and consulting and mobile applications
             <ul>
                 <li>Scripting: (Bash, Gulp)</li>
-                <li>Fronted (React JS , Vtex , Shopify , Wordpress)</li>
+                <li>Fronted ( Vtex , Shopify , Wordpress)</li>
                 <li>Backend (NodeJS)</li>
                 <li>Sql: (Mysql, Postgresql)</li>
                 <li>NoSql: (Firebase, MongoDB)</li>
