@@ -69,7 +69,7 @@
 <div align="center">
     <h2 align="left">🧰 Languages ​​and Technologies that I have Extensive domain and knowledge in</h2>
 </div>
-<p align="center" style="background-color: #fff>
+<p align="center">
     <a href="https://www.shopify.com/br" target="_blank">
         <img src="https://img.icons8.com/color/48/null/shopify.png" alt="shopify" width="40" height="40" />
     </a>
