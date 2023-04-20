@@ -40,7 +40,7 @@
     </a>
     <a  target="_blank">
         <img src="https://img.icons8.com/color/48/null/nvidia-geforce.png" width="30" height="30" />
-        <p>RTX 4090 GAMING TRIO 24G GDDR6X - 912-V510-014</p>
+        <p>EVGA GeForce RTX 3090</p>
     </a>
     <a  target="_blank">
         <img src="https://img.icons8.com/color/48/null/motherboard.png" width="30" height="30" />
