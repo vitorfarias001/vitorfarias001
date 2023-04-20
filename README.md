@@ -10,7 +10,7 @@
 </div>
 <ul>
     <li>🐲 Name : Vitor De Farias Metzner</li>
-    <li>🥷 : 25/08/1998</li>
+    <li>🥷  Since : 25/08/1998</li>
     <li>👾 Bio : I build ecommerce sites , maintenance and consulting and mobile applications
             <ul>
                 <li>Scripting: (Bash, Gulp)</li>
