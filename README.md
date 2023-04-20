@@ -18,8 +18,8 @@
                 <li>Backend (NodeJS)</li>
                 <li>Sql: (Mysql, Postgresql)</li>
                 <li>NoSql: (Firebase, MongoDB)</li>
-                <li>Mobile: (React Native , Flutter)</li>
-                <li>Other: ( C#, Unity3D)</li>
+                <li>Mobile: (React Native , Flutter , Xamarin)</li>
+                <li>Other: ( C#, Unity3D)</li> 
             </ul></li>
 </ul>
 <div align="center">
