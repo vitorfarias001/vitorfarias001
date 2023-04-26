@@ -11,18 +11,8 @@
 <ul>
     <li>🐲 Name : Vitor De Farias Metzner</li>
     <li>🥷  Since : 25/08/1998</li>
-    <li>👾 Bio : I build ecommerce sites , maintenance and consulting and mobile applications
-            <ul>
-                <li>Scripting: (Bash, Gulp)</li>
-                <li>Fronted ( Vtex , Shopify , Wordpress)</li>
-                <li>Backend (NodeJS)</li>
-                <li>Sql: (Mysql, Postgresql)</li>
-                <li>NoSql: (Firebase, MongoDB)</li>
-                <li>Mobile: (React Native , Flutter )</li>
-            </ul>
-    </li>
-</ul>
 <div align="center">
+    ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vitorfarias001&theme=gotham)
     <h2 align="left">📧 A Full Stack Developer</h2>
 </div>
 <h3 align="center"></h3>
@@ -31,40 +21,6 @@
         <img src="https://github-profile-trophy.vercel.app/?username=vitorfarias001" alt="vitorfarias001" />
     </a>
 </p>
-<div align="center">
-    <h2 align="left">🖥️ I work on :</h2>
-    <p align="center">
-    <a  target="_blank">
-        <img src="https://img.icons8.com/color/48/null/raspberry-pi-zero.png" width="30" height="30" />
-        <p>Intel® Core™ i5-7400 Processor 6M Cache, up to 3.50 GHz</p>
-    </a>
-    <a  target="_blank">
-        <img src="https://img.icons8.com/color/48/null/nvidia-geforce.png" width="30" height="30" />
-        <p>EVGA GeForce RTX 3090</p>
-    </a>
-    <a  target="_blank">
-        <img src="https://img.icons8.com/color/48/null/motherboard.png" width="30" height="30" />
-        <p>GA-H110M-H (rev. 1.x)</p>
-    </a>
-    <a  target="_blank">
-        <img src="https://img.icons8.com/color/48/null/headset.png" width="30" height="30" />
-        <p>Razer Kraken 7.1</p>
-    </a>
-    <a  target="_blank">
-        <img src="https://img.icons8.com/color/48/null/keyboard.png" width="30" height="30" />
-        <p>Razer Pro Type Wireless Mechanical Keyboard, Bluetooth</p>
-    </a>
-    <a  target="_blank">
-        <img src="https://img.icons8.com/color/48/null/generic-mouse.png" width="30" height="30" />
-        <p>Razer Deathadder V2 X HyperSpeed ​​Wireless Gaming Mouse</p>
-    </a>
-    <a  target="_blank">
-        <img src="https://img.icons8.com/color/48/null/integrated-webcam.png"" width="30" height="30" />
-        <p>POCO F2 PRO XIAOMI</p>
-    </a>
-   
-</p>
-</div>
 
 <div align="center">
     <h2 align="left">🧰 Languages ​​and Technologies that I have Extensive domain and knowledge in</h2>
