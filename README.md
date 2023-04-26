@@ -12,9 +12,9 @@
     <li>🐲 Name : Vitor De Farias Metzner</li>
     <li>🥷  Since : 25/08/1998</li>
 <div align="center">
-    ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vitorfarias001&theme=gotham)
     <h2 align="left">📧 A Full Stack Developer</h2>
 </div>
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vitorfarias001&theme=gotham)
 <h3 align="center"></h3>
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
