@@ -9,7 +9,7 @@
     <h2 align="left">🎓About me:</h2>
 </div>
 <ul>
-    <li>🐲 Name : Vitor De Farias Metzner</li>
+    <li>🐲 Name : Vitor De Farias Metznerr</li>
     <li>🥷  Since : 25/08/1998</li>
     <li>👾 Bio : I build ecommerce sites , maintenance and consulting and mobile applications
             <ul>
