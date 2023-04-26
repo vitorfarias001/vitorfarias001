@@ -8,6 +8,7 @@
 <div align="center">
     <h2 align="left">🎓About me:</h2>
 </div>
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vitorfarias001&theme=gotham)
 <ul>
     <li>🐲 Name : Vitor De Farias Metzner</li>
     <li>🥷  Since : 25/08/1998</li>
