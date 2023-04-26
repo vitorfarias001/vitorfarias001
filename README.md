@@ -14,7 +14,6 @@
 <div align="center">
     <h2 align="left">📧 A Full Stack Developer</h2>
 </div>
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vitorfarias001&theme=gotham)
 <h3 align="center"></h3>
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
