@@ -3,7 +3,6 @@
         Hi there, I'm >Vitor De Farias Metzner</a>
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
     </h1> 
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=14&pause=1000&center=true&vCenter=true&width=500&lines=developer+front end+react,+react native+others+technologies" alt="Typing SVG" />
  </div>
 <div align="center">
     <h2 align="left">🎓About me:</h2>
