@@ -11,7 +11,7 @@
     <li>🐲 Name : Vitor De Farias Metzner</li>
     <li>🥷  Since : 25/08/1998</li>
 <div align="center">
-    <h2 align="left">📧 A Full Stack Developer</h2>
+    <h2 align="left">📧 A Front End Developer</h2>
 </div>
 <h3 align="center"></h3>
 <p align="center">
