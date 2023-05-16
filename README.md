@@ -4,21 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vitorfarias001" alt="vitorfarias001" /></a> </p>
 
-- 🔭 I’m currently working on **Free Lancer**
-
-- 🌱 I’m currently learning **English and Japanese**
-
 - 👯 For Proposals on [My Linkedin](https://www.linkedin.com/in/devvitorfarias/)
-
-- 🤝 I’m looking for help with **Companies that work with agile and projects with technologies that I master**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-8nbm4cd3w-vitorfarias001.vercel.app/](https://my-portfolio-8nbm4cd3w-vitorfarias001.vercel.app/)
 
 - 📝 I regularly write articles on [https://my-portfolio-8nbm4cd3w-vitorfarias001.vercel.app/](https://my-portfolio-8nbm4cd3w-vitorfarias001.vercel.app/)
-
-- 💬 Ask me about **Next , Vue , Flutter , Node , React Native , React , Bootstrap & others.**
-
-- 📫 How to reach me **contato.vitorfariass@gmail.com**
 
 - 📄 Know about my experiences [https://my-portfolio-8nbm4cd3w-vitorfarias001.vercel.app/](https://my-portfolio-8nbm4cd3w-vitorfarias001.vercel.app/)
 
