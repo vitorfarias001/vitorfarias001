@@ -13,15 +13,15 @@
 
 - 🤝 I’m looking for help with **Companies that work with agile and projects with technologies that I master**
 
-- 👨‍💻 All of my projects are available at [Developing](Developing)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-8nbm4cd3w-vitorfarias001.vercel.app/](https://my-portfolio-8nbm4cd3w-vitorfarias001.vercel.app/)
 
-- 📝 I regularly write articles on [Developing](Developing)
+- 📝 I regularly write articles on [https://my-portfolio-8nbm4cd3w-vitorfarias001.vercel.app/](https://my-portfolio-8nbm4cd3w-vitorfarias001.vercel.app/)
 
 - 💬 Ask me about **Next , Vue , Flutter , Node , React Native , React , Bootstrap & others.**
 
 - 📫 How to reach me **contato.vitorfariass@gmail.com**
 
-- 📄 Know about my experiences [Developing](Developing)
+- 📄 Know about my experiences [https://my-portfolio-8nbm4cd3w-vitorfarias001.vercel.app/](https://my-portfolio-8nbm4cd3w-vitorfarias001.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
