@@ -6,7 +6,7 @@
 
 - 👯 For Proposals on [My Linkedin](https://www.linkedin.com/in/devvitorfarias/)
 
-- 👨‍💻 All of my projects are available at [https://https://vitorfariasresume.vercel.app](https://vitorfariasresume.vercel.app)
+- 👨‍💻 All of my projects are available at [https://vitorfariasresume.vercel.app](https://vitorfariasresume.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
