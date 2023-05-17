@@ -6,11 +6,7 @@
 
 - 👯 For Proposals on [My Linkedin](https://www.linkedin.com/in/devvitorfarias/)
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-8nbm4cd3w-vitorfarias001.vercel.app/](https://my-portfolio-8nbm4cd3w-vitorfarias001.vercel.app/)
-
-- 📝 I regularly write articles on [https://my-portfolio-8nbm4cd3w-vitorfarias001.vercel.app/](https://my-portfolio-8nbm4cd3w-vitorfarias001.vercel.app/)
-
-- 📄 Know about my experiences [https://my-portfolio-8nbm4cd3w-vitorfarias001.vercel.app/](https://my-portfolio-8nbm4cd3w-vitorfarias001.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://https://vitorfariasresume.vercel.app](https://https://https://vitorfariasresume.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
